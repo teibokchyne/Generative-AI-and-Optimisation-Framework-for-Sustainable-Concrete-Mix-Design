@@ -52,7 +52,7 @@ This repository contains all materials related to my Master's Thesis titled **"G
   [`vae_definition.ipynb`](./vae_definition.ipynb)
   Implements the structure of the CVAE used in the experiments.
 
-* **CVAE Architecture Optimization**
+* **Mix Design Optimization**
   [`vae_optimization.ipynb`](./vae_optimization.ipynb)
   Hyperparameter tuning and model selection for CVAEs.
 
