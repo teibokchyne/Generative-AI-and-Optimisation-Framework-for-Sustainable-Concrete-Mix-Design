@@ -1,4 +1,4 @@
-# Master's Thesis Repository – Teiboklang Chyne (Roll No. 234156019)
+# Master's Thesis Repository – Teiboklang Chyne (Roll No. 234156019, IIT Guwahati)
 
 This repository contains all materials related to my Master's Thesis titled **"Generative Artificial Intelligence and Optimisation Framework for Sustainable Concrete Mixture Design"**, including the thesis report, presentations, research papers, dataset, and associated code files used for experiments and analysis.
 
