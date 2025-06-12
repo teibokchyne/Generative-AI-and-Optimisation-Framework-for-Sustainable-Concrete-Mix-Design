@@ -54,7 +54,7 @@ This repository contains all materials related to my Master's Thesis titled **"G
 
 * **Mix Design Optimization**
   [`vae_optimization.ipynb`](./vae_optimization.ipynb)
-  Hyperparameter tuning and model selection for CVAEs.
+  Hyperparameter tuning and model selection for CVAEs. Mixture Design Optimization using selected CVAE.
 
 * **Comparison Using Learning Curves**
   [`vae_comparison_learning_curve.ipynb`](./vae_comparison_learning_curve.ipynb)
